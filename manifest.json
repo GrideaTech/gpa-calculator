@@ -4,7 +4,7 @@
   "description": "Calculate your semester GPA and total CGPA easily.",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#f8fafc",
+  "background_color": "#ffffff",
   "theme_color": "#4f46e5",
   "icons": [
     {
